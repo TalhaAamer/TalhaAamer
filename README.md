@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact Me Through: 
 -  Email:talhaaamer03@gmail.com
--  https://www.linkedin.com/in/talha-aamer-748355219/
+-  Linkedin:https://www.linkedin.com/in/talha-aamer-748355219/
 
 <!---
 TalhaAamer/TalhaAamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
