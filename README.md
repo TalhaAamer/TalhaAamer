@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-       Email:talhaaamer03@gmail.com
+- 📫 Contact Me: 
+      Email:talhaaamer03@gmail.com
 
 <!---
 TalhaAamer/TalhaAamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
