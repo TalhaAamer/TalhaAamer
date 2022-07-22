@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TalhaAamer
+I am a Frontend Web Designer
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 Contact Me Through: 
